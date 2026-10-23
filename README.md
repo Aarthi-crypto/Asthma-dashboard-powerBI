@@ -71,7 +71,7 @@ Please refer to the Kaggle page for the dataset's license and terms of use
 ```
 asthma-dashboard-powerbi/
 ├── data/
-│   └── asthma_data.csv
+│   └── asthma_data.xlsx
 ├── screenshots/
 │   └── asthma-dashboard.png
 ├── ASTHMA.pbix
