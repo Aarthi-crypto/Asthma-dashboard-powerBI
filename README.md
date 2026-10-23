@@ -15,7 +15,7 @@ An analysis of asthma patient data in Power BI, exploring how demographics, life
 - **Author:** miadul (Kaggle)
 - **Type:** Synthetic medical data (no real patient information)
 - **Size:** 10,000 patient records, 17 columns, no missing values
-- **File in this repo:** `data/asthma_data.csv`
+- **File in this repo:** `data/asthma_data.xlsx`
 
 Please refer to the Kaggle page for the dataset's license and terms of use
 
