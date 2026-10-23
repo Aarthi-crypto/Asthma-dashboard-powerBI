@@ -9,12 +9,6 @@ An analysis of asthma patient data in Power BI, exploring how demographics, life
 
    ![Dashboard Page 1](screenshots/Screenshot%202026-10-23%20184114.png)
 
-   ![Dashboard Page 2](screenshots/Screenshot%202026-10-23%20184130.png)
-
-   ![Dashboard Page 3](screenshots/Screenshot%202026-10-23%20184151.png)
-
-   ![Dashboard Page 4](screenshots/Screenshot%202026-10-23%20184212.png)
-
 ## Dataset
 
 - **Name:** [Asthma Synthetic Medical Dataset](https://www.kaggle.com/datasets/miadul/asthma-synthetic-medical-dataset)
