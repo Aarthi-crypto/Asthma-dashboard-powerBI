@@ -19,6 +19,30 @@ An analysis of asthma patient data in Power BI, exploring how demographics, life
 
 Please refer to the Kaggle page for the dataset's license and terms of use
 
+### Columns
+
+| Column | Description |
+|---|---|
+| Patient_ID | Unique patient identifier |
+| Age | Age in years (1 to 89) |
+| Gender | Female, Male, Other |
+| BMI | Body mass index |
+| Smoking_Status | Current, Former, Never |
+| Family_History | 1 = family history of asthma, 0 = none |
+| Allergies | None, Dust, Pets, Pollen, Multiple |
+| Air_Pollution_Level | Low, Moderate, High |
+| Physical_Activity_Level | Sedentary, Moderate, Active |
+| Occupation_Type | Indoor, Outdoor |
+| Comorbidities | None, Diabetes, Hypertension, Both |
+| Medication_Adherence | Score from 0 to 1 |
+| Number_of_ER_Visits | Emergency room visits |
+| Peak_Expiratory_Flow | Lung function measure |
+| FeNO_Level | Fractional exhaled nitric oxide (airway inflammation marker) |
+| Has_Asthma | 1 = diagnosed, 0 = not diagnosed |
+| Asthma_Control_Level | Well Controlled, Poorly Controlled, Not Controlled, or N/A (no asthma) |
+
+## Objectives
+
 - Understand the demographic and health profile of the patients
 - Identify which risk factors are most associated with an asthma diagnosis
 - Analyze how well asthma is controlled among diagnosed patients
@@ -67,4 +91,4 @@ Dataset by [miadul](https://www.kaggle.com/datasets/miadul/asthma-synthetic-medi
 
 ## Author
 
-Aarthi G D(https://github.com/your-username)
+Aarthi G D([(https://github.com/Aarthi-crypto)]
